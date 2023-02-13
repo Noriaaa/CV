@@ -1,0 +1,19 @@
+medium-text {
+    font-size : 2rem;
+  }
+  .left-col {
+    background-color: orange;
+    color: white;
+    width: 25%;
+    float: left;
+    padding: 0 10px;
+    flex-direction: ;
+  }
+  .right-col {
+    width: 75%;
+    float: right;
+    padding: 0 20px;
+  }
+.clearfix {
+    clear: both;
+  }
